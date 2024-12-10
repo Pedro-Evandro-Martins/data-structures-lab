@@ -18,7 +18,7 @@ This project is designed as a learning tool for exploring the functionality, per
 ### Building the Project
 Clone the repository and use the following commands to build the project:
 ```bash
-git clone https://github.com/<your-username>/data-structures-lab.git
+git clone https://github.com/Pedro-Evandro-Martins/data-structures-lab.git
 cd data-structures-lab
 make
 ```
