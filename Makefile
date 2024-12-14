@@ -32,5 +32,4 @@ clean:
 	rm -rf $(BUILD_DIR)
 
 # Phony targets
-.PHONY: all clean
-
+.PHONY: all clean test

@@ -1,0 +1,18 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/pedro/Documents/data-structures-lab",
+    "file": "/home/pedro/Documents/data-structures-lab/src/main.c",
+    "output": "/home/pedro/Documents/data-structures-lab/build/main.o"
+  }
+]
