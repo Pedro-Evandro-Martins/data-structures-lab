@@ -8,6 +8,12 @@ const char *errorMessage(ErrorCode code) {
   case ERR_MEMORY_ALLOCATION:
     return "Memory Allocation failed.";
 
+  case ERR_STACK_PUSH_FAILED:
+    return "Stack data push failed";
+
+  case ERR_STACK_POP_FAILED:
+    return "Stack pop failed";
+
   case ERR_UNKNOWN:
   default:
     return "Unknown error.";
