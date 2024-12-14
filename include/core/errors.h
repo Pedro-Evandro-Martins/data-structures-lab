@@ -5,6 +5,10 @@ typedef enum {
   ERR_OK = 0,
   ERR_MEMORY_ALLOCATION,
 
+  ERR_STACK_PUSH_FAILED,
+
+  ERR_STACK_POP_FAILED,
+
   ERR_UNKNOWN
 } ErrorCode;
 
